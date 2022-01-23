@@ -1,10 +1,8 @@
-### Hi there 👋
+### E ai pessoal 👋
 
 - 🔭 Estou atualmente trabalhando com Frontend e Flutter
 - 🌱 Estou atualmente aprimorando Flutter
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 👯 Gostaria muito de poder contribuir para projetos Frontend/Mobile
+- 📫 Pode me mandar um email aqui: giuseppecristianobrandi@gmail.com
 
 
